@@ -1,0 +1,457 @@
+MinTemp,MaxTemp,Weather
+6,17,Cool
+4,18,Cold
+5,19,Cool
+5,19,Cool
+8,15,Cool
+6,17,Cool
+4,17,Cold
+6,19,Cool
+6,21,Cool
+6,22,Cool
+9,19,Cool
+8,17,Cool
+7,19,Cool
+5,19,Cool
+5,21,Cool
+6,17,Cool
+2,19,Cold
+5,20,Cool
+6,21,Cool
+10,21,Cool
+9,15,Cool
+9,14,Cool
+5,16,Cold
+5,16,Cold
+5,17,Cold
+4,17,Cold
+5,18,Cool
+4,17,Cold
+3,19,Cold
+7,16,Cool
+9,13,Cold
+9,14,Cool
+5,20,Cool
+6,22,Cool
+7,22,Cool
+11,22,Mild
+11,21,Cool
+8,15,Cool
+8,16,Cool
+5,18,Cool
+7,20,Cool
+9,21,Cool
+10,20,Cool
+10,23,Mild
+11,15,Cool
+8,17,Cool
+9,21,Cool
+9,20,Cool
+10,20,Cool
+9,20,Cool
+12,19,Cool
+12,20,Cool
+8,20,Cool
+9,21,Cool
+9,23,Cool
+9,22,Cool
+11,20,Cool
+8,20,Cool
+7,20,Cool
+9,20,Cool
+12,16,Cool
+10,18,Cool
+9,21,Cool
+10,24,Mild
+11,26,Mild
+11,25,Mild
+12,20,Mild
+10,24,Mild
+12,27,Mild
+13,20,Mild
+11,24,Mild
+12,23,Mild
+12,20,Mild
+11,24,Mild
+12,26,Mild
+14,29,Warm
+15,29,Warm
+15,27,Warm
+14,26,Mild
+14,27,Warm
+14,28,Warm
+17,25,Warm
+14,24,Mild
+14,29,Warm
+13,29,Warm
+15,31,Warm
+18,32,Warm
+19,33,Warm
+19,32,Warm
+17,29,Warm
+17,34,Warm
+18,34,Warm
+20,34,Warm
+20,35,Warm
+21,36,Hot
+22,35,Hot
+21,35,Warm
+22,32,Warm
+21,34,Warm
+20,35,Warm
+20,35,Warm
+23,34,Hot
+21,30,Warm
+21,32,Warm
+22,36,Hot
+18,28,Warm
+17,22,Mild
+16,28,Warm
+18,31,Warm
+20,34,Warm
+21,37,Hot
+23,37,Hot
+23,41,Hot
+23,38,Hot
+22,39,Hot
+22,39,Hot
+23,39,Hot
+23,40,Hot
+23,39,Hot
+26,37,Hot
+23,40,Hot
+25,39,Hot
+21,37,Hot
+22,36,Hot
+24,39,Hot
+25,40,Hot
+24,41,Hot
+26,41,Very hot
+26,42,Very hot
+27,40,Very hot
+24,33,Hot
+22,39,Hot
+24,39,Hot
+21,35,Warm
+25,33,Hot
+22,32,Warm
+21,28,Warm
+20,35,Warm
+23,38,Hot
+23,38,Hot
+25,41,Hot
+27,40,Very hot
+23,36,Warm
+20,31,Warm
+20,32,Warm
+23,38,Hot
+26,40,Hot
+25,42,Very hot
+26,42,Very hot
+30,44,Very hot
+30,46,Very hot
+31,46,Very hot
+30,46,Very hot
+29,43,Very hot
+27,41,Very hot
+28,44,Very hot
+28,42,Very hot
+26,43,Very hot
+28,43,Very hot
+29,44,Very hot
+30,46,Very hot
+31,44,Very hot
+24,38,Hot
+26,41,Very hot
+28,43,Very hot
+28,43,Very hot
+28,39,Very hot
+22,41,Hot
+23,31,Warm
+25,38,Hot
+22,37,Hot
+25,37,Hot
+28,41,Very hot
+29,40,Very hot
+23,29,Warm
+24,36,Hot
+28,41,Very hot
+26,41,Very hot
+29,41,Very hot
+30,42,Very hot
+29,44,Very hot
+30,43,Very hot
+28,40,Very hot
+30,41,Very hot
+24,40,Hot
+24,37,Hot
+25,32,Hot
+28,35,Hot
+28,38,Hot
+28,36,Hot
+28,36,Hot
+24,34,Hot
+28,34,Hot
+23,34,Hot
+22,30,Warm
+23,30,Warm
+23,27,Warm
+23,31,Warm
+25,34,Hot
+27,33,Hot
+26,35,Hot
+26,36,Hot
+29,37,Hot
+29,37,Hot
+29,39,Very hot
+23,30,Warm
+26,31,Hot
+26,31,Hot
+25,29,Warm
+26,35,Hot
+26,35,Hot
+26,32,Hot
+24,32,Warm
+24,31,Warm
+26,33,Hot
+27,36,Hot
+29,38,Very hot
+27,34,Hot
+26,33,Hot
+28,36,Hot
+26,31,Hot
+26,33,Hot
+28,35,Hot
+26,37,Hot
+28,36,Hot
+28,33,Hot
+29,36,Hot
+25,33,Hot
+24,29,Warm
+23,35,Hot
+25,36,Hot
+38,27,Hot
+28,38,Hot
+27,36,Hot
+27,36,Hot
+24,38,Hot
+27,35,Hot
+27,34,Hot
+27,35,Hot
+27,37,Hot
+27,38,Hot
+24,35,Hot
+27,38,Hot
+24,34,Hot
+24,34,Hot
+27,35,Hot
+28,38,Hot
+26,35,Hot
+27,35,Hot
+28,34,Hot
+27,37,Hot
+28,38,Hot
+29,38,Very hot
+28,39,Very hot
+29,37,Hot
+28,36,Hot
+28,36,Hot
+28,35,Hot
+26,36,Hot
+25,35,Hot
+26,36,Hot
+26,32,Hot
+25,33,Hot
+26,35,Hot
+25,34,Hot
+25,34,Hot
+25,34,Hot
+26,34,Hot
+25,33,Hot
+26,32,Hot
+22,31,Warm
+21,28,Warm
+21,30,Warm
+23,30,Warm
+22,32,Warm
+20,34,Warm
+20,28,Warm
+20,31,Warm
+22,30,Warm
+22,32,Warm
+21,34,Warm
+22,33,Warm
+20,33,Warm
+22,33,Warm
+22,32,Warm
+22,34,Warm
+22,34,Warm
+22,33,Warm
+21,32,Warm
+22,31,Warm
+18,29,Warm
+17,30,Warm
+19,30,Warm
+19,31,Warm
+19,31,Warm
+18,31,Warm
+19,31,Warm
+19,31,Warm
+18,31,Warm
+20,31,Warm
+18,31,Warm
+18,31,Warm
+18,31,Warm
+18,31,Warm
+19,26,Warm
+17,27,Warm
+19,27,Warm
+17,27,Warm
+17,30,Warm
+17,29,Warm
+15,24,Mild
+13,24,Mild
+14,27,Warm
+12,26,Mild
+13,26,Mild
+12,25,Mild
+14,25,Mild
+15,23,Mild
+12,26,Mild
+16,25,Warm
+13,26,Mild
+14,26,Mild
+13,25,Mild
+12,24,Mild
+12,22,Mild
+12,22,Mild
+15,24,Mild
+14,25,Mild
+13,24,Mild
+12,22,Mild
+13,22,Mild
+14,21,Mild
+13,22,Mild
+12,23,Mild
+10,23,Mild
+9,23,Cool
+8,23,Cool
+8,23,Cool
+8,21,Cool
+9,22,Cool
+6,24,Cool
+7,22,Cool
+8,20,cool
+7,19,cool
+7,19,cool
+10,15,Cool
+11,14,cool
+10,15,cool
+8,16,Cool
+6,15,Cold
+6,15,Cold
+6,14,Cold
+6,12,Cold
+6,12,Cold
+7,16,Cold
+6,15,Cold
+7,12,Cold
+6,12,Cold
+6,10,Cold
+5,11,Cold
+4,10,Cold
+5,9,Cold
+5,11,Cold
+3,8,Cold
+3,8,Cold
+6,22,Cool
+7,22,Cool
+11,22,Mild
+11,21,Cool
+8,15,Cool
+8,16,Cool
+5,18,Cool
+7,20,Cool
+9,21,Cool
+10,20,Cool
+10,23,Mild
+11,15,Cool
+8,17,Cool
+9,21,Cool
+9,20,Cool
+12,23,Mild
+10,20,Cool
+12,20,Mild
+11,24,Mild
+12,26,Mild
+14,29,Warm
+15,29,Warm
+15,27,Warm
+14,26,Mild
+14,27,Warm
+14,28,Warm
+17,25,Warm
+14,24,Mild
+17,22,Mild
+16,28,Warm
+18,31,Warm
+20,34,Warm
+21,37,Hot
+23,37,Hot
+23,41,Hot
+23,38,Hot
+22,39,Hot
+22,39,Hot
+23,39,Hot
+23,40,Hot
+23,39,Hot
+27,40,Very hot
+23,36,Warm
+20,31,Warm
+20,32,Warm
+23,38,Hot
+26,40,Hot
+25,42,Very hot
+26,42,Very hot
+30,44,Very hot
+30,46,Very hot
+31,46,Very hot
+30,46,Very hot
+29,43,Very hot
+29,44,Very hot
+30,43,Very hot
+28,40,Very hot
+30,41,Very hot
+24,40,Hot
+24,37,Hot
+25,32,Hot
+28,35,Hot
+28,38,Hot
+28,36,Hot
+28,36,Hot
+24,34,Hot
+28,34,Hot
+23,34,Hot
+22,30,Warm
+23,30,Warm
+18,31,Warm
+19,26,Warm
+17,27,Warm
+19,27,Warm
+17,27,Warm
+17,30,Warm
+17,29,Warm
+15,24,Mild
+13,24,Mild
+14,27,Warm
+11,14,cool
+10,15,cool
+8,16,Coo1l
+6,15,Cold
+6,15,Cold
+6,14,Cold
+6,12,Cold
+6,12,Cold
+7,16,Cold
+6,15,Cold
+7,12,Cold
